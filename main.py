@@ -15,4 +15,5 @@ print("a4",a4)
 r1 = np.random.rand(2,3)
 print("r1",r1)
 
-r2 r1.reshape (3,2)
+r2 = r1.reshape (3,2)
+
